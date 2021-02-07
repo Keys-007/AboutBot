@@ -1,3 +1,3 @@
-# About/Info Bot 
-## Another Fork From Anony Ka Bot
+# About/Info Bot
+## Another Fork From StarDevs
 
