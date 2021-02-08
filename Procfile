@@ -1,1 +1,1 @@
-scarlett: python -m infobot
+scarlett: python -m scarlett
